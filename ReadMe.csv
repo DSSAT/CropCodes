@@ -1,0 +1,34 @@
+Version,0.1
+Verson_date,2018-06-01
+Introduction,This spreadsheet lists ...
+,Guides of adding new crop/module:
+,1. add a new row in the forth sheet named as v*.*
+,"2. fill colums ""Common_name"", etc."
+,3. rename sheet by increasing version in a format like v*.*
+,4. close the spreadsheet when done
+,5. run DSSAT and goto to the DSSAT shell->help>Update crop master
+,Alternatively user can add crop/module by right clicking on the crop tree view in the DSSAT Shell
+,and using context-sensitive menu options
+Variable,Explanation
+Crop_code,Three-letter ICASA code
+Common_name,"Most frequently used name, usually in English"
+Latin_name,"Scientific name (Latin binomial), using Wikipedia as preferred source for names."
+Major use,Most common use of crop
+Other uses,"List of other uses (e.g., wheat as a forage crop)"
+Crop_comments,Further information that might help people simulate the crop
+DSSAT_code,Two-letter code used for current versions of DSSAT (V4.7)
+APSIM_code,
+AgTrials_code,
+Photosynthetic pathway,"Whether the crop uses the C3, C4 or CAM pathway"
+Repro type,Whether the crop is an annual or perennial
+Daylength,"Whether the crop typically shows a short day (SD), long day (LD) or day neutral (DN) response to photoperiod"
+Vernalization,Whether the crop responds to vernalizing temperatures
+Harvested part(s),What part of the crop is typically harvested
+When_harvested,"What criteria are used to decide when to harvest. Typically based on growth stage (e.g., harvest maturity), size (when the harvested product reaches a desired size) or a fixed date (for crops such as potato or cassava that may be harvested on a specific date based on the grower's specific needs or constraints)"
+N-fixation,Whether the crop is capable of symbiotic nitrogen fixation
+Major planting,What material is most often used for planting
+Other planting,What alternative materials may be used for planting
+DSSAT tree node,For the tree of 
+Default_executable,
+Default_module,
+Default_description,
