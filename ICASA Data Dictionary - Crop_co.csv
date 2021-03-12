@@ -56,7 +56,7 @@ FIG,Fig,Ficus carica,Fruit,,,FG,Fig,,C3,Perennial,,,Fruit,,N,Transplant,,Fruit c
 FLX,Flax,Linum usitatissimum,Fiber,,,FX,,,C3,Annual,,,Stem,,N,Seed,,Fiber,,,,,,,,,,,,,,,,,,,
 FML,Finger millet,Eleusine coracana,Cereal,,,,,,C4,Annual,,,Seed,,N,,,Cereals,,,,,,,,,,,,,,,,,,,
 FRG,Forage generic,(various),Forage,,Unidentified forage crop,G0,,,NA,Perennial,,,Shoot,,N,,,Forages,DSCSM046,PRFRM,FORAGE-Generic,,,,,,,,,,,,,,,,
-FXM,Foxtail millet,Setaria italica,Cereal,,,FM,Foxtailmillet,,C3,Annual,,,Seed,,N,Seed,,Cereals,,,,,,,,,,,,,,,,,,,
+FXM,Foxtail millet,Setaria italica,Cereal,,,FM,Foxtailmillet,,C4,Annual,,,Seed,,N,Seed,,Cereals,,,,,,,,,,,,,,,,https://en.wikipedia.org/wiki/Foxtail_millet,,,
 GRV,Grass vegetations,(various),NA,,,GR,Grassvegetations,,NA,NA,,,NA,,N,NA,,Various,,,,,,,,,,,,,,,,,,,
 GRW,Grass weeds,(various),NA,,,GW,Weed,,NA,NA,,,NA,,N,NA,,Various,,,,,,,,,,,,,,,,,,,
 GUA,Guayule,Parthenium argentatum,Latex,,,GY,Guayule,,C3,Perennial,,,Stem,,N,Transplant,Seed,Latex,,,,,,,,,,,,,,,,en.wikipedia.org/wiki/Parthenium_argentatum,,,
